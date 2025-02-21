@@ -1,0 +1,121 @@
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.secrets
+.venv
+
+# Testing and coverage
+.coverage
+htmlcov/
+.coverage.*
+.pytest_cache/
+test.db
+*.sqlite
+
+# Documentation
+docs/_build/
+docs/api/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Local development
+*.local
+.cache
+.pytest_cache/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Build artifacts for C extensions
+*.pyd
+*.dll
+*.dylib
+*.mod
+*.so
+
+# Compiled Python files for embedded distributions
+python.exe
+pythonw.exe
+*.pyz
+
+# ML/AI specific
+models/
+data/
+*.h5
+*.pkl
+*.joblib
+*.onnx
+*.pb
+*.tflite
+*.pt
+*.bin
+
+# PyPI publishing temporary files
+.twine
