@@ -2,7 +2,7 @@
 
 from smartmlpipeline import SmartMLPipeline
 from smartmlpipeline.utils import load_data
-from optuna.visualization import plot_optimization_history, plot_param_importances
+from smartmlpipeline.visualization import plot_optimization_history, plot_param_importances
 
 # Load dataset
 df = load_data('data/dataset.csv')

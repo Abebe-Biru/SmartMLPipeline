@@ -9,7 +9,7 @@ setup(
     name='SmartMLPipeline',
     version='0.1.0',
     author='Abebe Biru',
-    author_email='abebe.biru.abs@gmail.com',
+    author_email='smartml.team@gmail.com',
     description='An automated and customizable ML pipeline for classification tasks',
     long_description=long_description,
     long_description_content_type='text/markdown',
