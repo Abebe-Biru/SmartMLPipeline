@@ -1,5 +1,3 @@
-# smartmlpipeline/model_training.py
-
 import optuna
 from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestClassifier

@@ -1,5 +1,3 @@
-# smartmlpipeline/feature_engineering.py
-
 from sklearn.feature_selection import SelectKBest, f_classif
 import pandas as pd
 
