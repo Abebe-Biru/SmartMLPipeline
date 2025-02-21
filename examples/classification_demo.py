@@ -1,5 +1,3 @@
-# examples/classification_demo.py
-
 from smartmlpipeline import SmartMLPipeline
 from smartmlpipeline.utils import load_data
 from smartmlpipeline.visualization import plot_optimization_history, plot_param_importances
