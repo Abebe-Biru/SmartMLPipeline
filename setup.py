@@ -6,8 +6,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='SmartMLPipeline',
-    version='0.1.0',
+    name='smart-ml-pipeline',
+    version='0.1.1',
     author='Abebe Biru',
     author_email='smartml.team@gmail.com',
     description='An automated and customizable ML pipeline for classification tasks',
